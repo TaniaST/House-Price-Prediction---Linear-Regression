@@ -1,5 +1,5 @@
 # House Price Prediction-Linear Regression
-This repository contains the code for prediction of prices from house sale advertisements currently in the market, using a linear regression model. The data set contains 500 sales with the following parameters:
+This repository contains the code for prediction of prices from house sale advertisements currently in the market, using a linear regression model. The data set (housing.csv file) contains 500 sales with the following parameters:
 
 * elevation: Elevation of the base of the house
 * dist_am1: Distance to Amenity 1
