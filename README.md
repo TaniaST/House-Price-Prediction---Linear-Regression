@@ -15,8 +15,9 @@ This repository contains the code for prediction of prices from house sale adver
 To reproduce the results:
 
 * Clone a copy of this repository to your computer
+* Extract all the files from the zip folder
 * Install all the packages mentioned in requirements.txt file
 * Run Linear_regression_script.R file
 
 ## Results
-To see the results of the analysis, open the House_Prices_Prediction_Report.md file.
+To see the results of the analysis, open the House_Prices_Prediction_Report.md file in this repository.
