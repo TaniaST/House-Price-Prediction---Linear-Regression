@@ -1,0 +1,7 @@
+To run the code and reproduce the findings, the following packages in R must be installed:
+install.packages("devtools")
+devtools::install_github("ggobi/ggally")
+install.packages("GGally")
+install.packages("car")
+install.packages("gridExtra")
+install.packages("ggplot2")
